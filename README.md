@@ -1,10 +1,6 @@
 # Homelab
 Home network detection and Monitoring lab for hands on cyber analysis and engineering experience 
 
-Here's a fully written-out description of your home network security lab for your GitHub post:
-
----
-
 ## Home Network Security Lab Overview
 
 To enhance my hands-on cybersecurity skills and gain practical experience in log analysis, SIEM management, and security event visualization, I built a **Virtualized Network Detection Lab**. This lab replicates an enterprise network environment, allowing me to simulate cyber-attacks, analyze logs, and visualize data through interactive dashboards. Below are the key components and configurations of my lab:
